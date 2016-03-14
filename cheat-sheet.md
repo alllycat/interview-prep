@@ -16,6 +16,7 @@ Prepping for interviews suck, so I'm working on a summary resource to help you. 
 **Abstraction**: The process of separating ideas from specific instances of those ideas at work.
 
 **Polymorphism**: The provision of a single interface to entities of different types. Subtyping.
+* is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object. Any Java object that can pass more than one IS-A test is considered to be polymorphic.
 
 **Inheritance**: When an object or class is based on another object or class, using the same implem­entation; it is a mechanism for code reuse. The relationships of objects or classes through inheri­tance give rise to a hierarchy.
 * a subclass borrows attributes and methods from another class, namely a superclass.

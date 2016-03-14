@@ -1,6 +1,6 @@
 # Interview Prep
 
-Prepping for interviews suck, so I'm working on a resource to help others prep for them.
+Prepping for interviews suck, so I'm working on a summary resource to help you. This sheet is only a summary and does not cover everything in depth, however, it does reference links to more in-depth explanations.
 
 # Table of Contents
 * [link to content] (to be updated)

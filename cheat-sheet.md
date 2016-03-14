@@ -7,9 +7,43 @@ Prepping for interviews suck, so I'm working on a resource to help others prep f
 * [link to content]
 * [link to content]
 
-# Object Oriented Programming
+# Object Oriented Programming (OOP)
 
-# Data Structures
+**Definition:** a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
+
+###Basic OO Terms
+
+**Abstraction**: The process of separating ideas from specific instances of those ideas at work.
+
+**Polymorphism**: The provision of a single interface to entities of different types. Subtyping.
+
+**Inheritance**: When an object or class is based on another object or class, using the same implem­entation; it is a mechanism for code reuse. The relationships of objects or classes through inheri­tance give rise to a hierarchy.
+* a subclass borrows attributes and methods from another class, namely a superclass.
+* **Multiple inheritance** refers to the ability of a class to inherit attributes and methods from more than one superclass.
+
+**Encapsulation**: Enclosing objects in a common interface in a way that makes them interc­han­geable, and guards their states from invalid changes
+* A mechanism to restrict access to some of the object’s components
+
+**Objects**: An object can be anything in the world with attributes and behaviours that can be written into a program.
+* **Instantiation** is an act of creating an object from a class.
+* **Initialization** sets the default values for an object.
+
+**Classes**: A class refers to a group of common objects with same attributes and methods.
+* An **instance** is the resulting object created from instantiating an object from a class.
+* A **method** (or function) defines a particular behaviour of a class.
+* **Constructor** is a method that creates an object from a class
+* **Destructor Method** deletes the object and frees up memory that the object once occupied
+* **Subclass** (a.k.a child class): A subclass borrows attributes and methods from the superclass.
+* **Superclass** (a.k.a parent class): A superclass lends attributes and methods to subclass
+* **Abstract class**: An abstract class cannot create instances of itself.
+
+**Interface:** An interface is a set of related methods which are not suitable to be included in any classes.
+
+**Method overloading:** Method overloading is the ability to create several methods with the same name that has different input and output. For example, method called “size” in Ruby performs differently for a string (returns length of the string) and an int value (returns the number of bytes occupied by the integer).
+
+**Method overriding** is the ability of a subclass to replace a method that is already provided by one of its superclasses with a more specific implementation.
+
+# Basic Data Structures
 
 ###1. Array
 

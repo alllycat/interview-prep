@@ -44,6 +44,22 @@ Prepping for interviews suck, so I'm working on a summary resource to help you. 
 
 **Method overriding** is the ability of a subclass to replace a method that is already provided by one of its superclasses with a more specific implementation.
 
+##OO Principles
+
+Don't Repeat Yourself (DRY)
+Single Respon­sib­ility Principle
+Every object in your system should have a single respon­sib­ility, and all the object's services should be focused on carrying out that single respon­sib­ility.
+Open-C­losed Principle
+Classes should be open for extension, and closed for modifi­cation.
+Liskov Substi­tution Principle (LSP)
+Subtypes must be substi­tutable for their base types.
+Interface Segreg­ation Principle (ISP)
+Clients should not be forced to depend upon interfaces that they don't use.
+Dependency Inversion Principle (DIP)
+a. High level modules should not depend upon low level modules. Both should depend upon abstra­ctions.
+
+b. Abstra­ctions should not depend upon details. Details should depend upon abstra­ctions.
+
 # Basic Data Structures
 
 ###1. Array
